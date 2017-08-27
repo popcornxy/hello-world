@@ -1,2 +1,4 @@
 # hello-world
-first repository for learning GitHub
+
+Hi 
+I'm popcorn and start learning coding.I know a bit html and css so far.
